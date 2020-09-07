@@ -1,6 +1,6 @@
 ## Twitter Bot For Data Scientist
 
-Implmentation for a medium [post](https://towardsdatascience.com/twitter-bot-for-data-scientists-8f4242c4d876)
+Implementation for a medium [post](https://towardsdatascience.com/twitter-bot-for-data-scientists-8f4242c4d876)
 
 ![bot](bot.jpg)
 
